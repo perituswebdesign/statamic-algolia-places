@@ -1,5 +1,5 @@
 {
-    "name": "spatie/statamic-algolia-places",
+    "name": "peritus/statamic-algolia-places",
     "description": "An Algolia Places autocomplete dropdown fieldtype for the Statamic Control Panel",
     "license": "MIT",
     "type": "statamic-addon",
